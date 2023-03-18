@@ -7,3 +7,18 @@ main {
     background-color: dodgerblue;
     
 }
+
+div.left-header img {
+    width: 126px;
+    height: auto;
+    display: inline-block;
+}
+
+#dehaze {
+    float: left;
+    position: relative;
+    top: 20px;
+}
+#yout-icon {
+    float: left;
+}
