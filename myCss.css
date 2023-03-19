@@ -41,6 +41,7 @@ input {
 }
 #space {
     background-color: rgb(18, 18, 18);
+    color: white;
 }
 #search-div {
     padding:0 15px;
