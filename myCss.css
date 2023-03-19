@@ -1,5 +1,9 @@
+body {
+    background-color: rgb(15,15,15);
+}
+
 header {
-    background-color: linen;
+    background-color: rgb(40,33,30);
     display: flex;
     justify-content: center;
 }
@@ -48,4 +52,8 @@ input {
 }
 .mic {
     float: left;
+}
+.right-header {
+    position: absolute;
+    right: 15px;
 }
