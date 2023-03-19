@@ -32,8 +32,20 @@ div.left-header img {
     border: 2px solid;
     border-radius: 24px;
     padding: 5px;
+    background-color: rgb(18, 18, 18);
+    float: left;
 }
 
 input {
     font-size: 17px;
+    border: none;
+}
+#space {
+    background-color: rgb(18, 18, 18);
+}
+#search-div {
+    padding:0 15px;
+}
+.mic {
+    float: left;
 }
