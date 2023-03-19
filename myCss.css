@@ -57,3 +57,25 @@ input {
     position: absolute;
     right: 15px;
 }
+
+.carry {
+    margin: 10px;
+}
+#current-video {
+    float: left;
+}
+#playlist {
+    display: flex;
+    flex-direction: column;
+    float: right;
+}
+.suggestion {
+    float: left;
+    width: 300px;
+    height: 200px;
+}
+.text {
+    float: left;
+    height: 190px;
+    padding: 5px 8px;
+}
