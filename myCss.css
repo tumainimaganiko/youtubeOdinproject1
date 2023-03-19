@@ -8,11 +8,6 @@ header {
     justify-content: center;
 }
 
-main {
-    background-color: dodgerblue;
-    
-}
-
 .left-header {
     position: absolute;
     left: 10px;
@@ -63,6 +58,9 @@ input {
 }
 #current-video {
     float: left;
+    margin: 20px 10px;
+    position: relative;
+    left: 50px;
 }
 #playlist {
     display: flex;
@@ -78,4 +76,23 @@ input {
     float: left;
     height: 190px;
     padding: 5px 8px;
+}
+
+aside {
+    background-color: dodgerblue;
+    clear: left;
+    width: 50%;
+    position: relative;
+    left: 50px;
+}
+
+#microverse {
+    float: left;
+}
+#subscribe {
+    float: left;
+}
+
+#sub-image {
+    float: right;
 }
